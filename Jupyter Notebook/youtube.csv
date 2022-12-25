@@ -1,0 +1,244 @@
+,Name,Title
+0,,"Click the ""JOIN"" button below the video to support freeCodeCamp.org!"
+1,,
+2,,
+3,,
+4,,
+5,,
+6,,
+7,,
+8,,
+9,,
+10,,
+11,Lil Nas D,Two weeks ago I started doing this course thinking that it would be useful for my placements  and today I'm here to let you know that because of your teaching I actually learnt DBMS and got placed in an MNC .The recruiter asked me about DBMS functions and in particular he asked me about group by function which I otherwise wouldn't  have answered . I'm really grateful for you and thank you very much Sir for taking your time to explain DBMS to us.
+12,Zoldar Music,This was the only lesson of SQL I have ever taken and I managed to get a job as a Junior Data analyst! Thanks
+13,Aniket Biswas,I will never forget how I ended up here and finally secured a job for myself and this course has had immesurable contribution towards my success. It helped me get started with SOMETHING when my brain was cluttered and I was living in despair with all the wrong decisions in life. I'm very very thankful to Mike and whoever put this course in this format.
+14,Angie Makhubela,"To everyone who does not have the means to go to University or College and are self teaching, keep on going! your efforts will definitely be recognised "
+15,potionsmeller,"For those using this video recently : when connecting to your MySQL DB on PopSQL, make sure to change the connection type (toggle 'Connect directly from my computer') to avoid the error regarding localhost"
+16,Jon Santos,"9:45 DBMS; 12:20 C.R.U.D.  wrt databases; 13:14 Two types of databases: SQL (tables) vs noSQL (json, graphs, etc); 16:19 RDBMS (e.g., mySQL, Oracle, etc) SQL is the language used to interact with RDBMS; 18:20 non-relational databases (e.g., mongoDB) noSQL; 20:04 Queries; 21:45 Summary thus far; 24:15 example scenario which shows how to use pri/foreign/composite keys; 25:05 primary key; 30:08 two types of primary keys: surrogate keys (no mapping to real world) vs natural keys (has mapping to real world); "
+17,Terrabyte12,Some of this YouTubers really know how to prepare and convey tech materials way better than some lecturers in high-end institutions. Thank you so much for this upload.
+18,Engr. Leth A,Thanks a bunch. I finished your 4 hour course.. I am 61 and just fascinated with these section of education. Retired engineer of the Armed  Forces. I’ll share your video and channel to my son. 
+19,Tharinda Kodikara,I've just finished this course. I wanted to revise what I've learned in a previous semester in my campus because I have a module on 'Advanced Data Management' coming up next semester. I learned many SQL codes which I didn't know before and learned how to convert a set of requirements into a database schema step by step. Thanks so much Mike for creating this valuable content!
+20,Aditya Kiran G,"Wonderful tutorial covering all the basic concepts of SQL. Completed it in 2.5 days.. If you are more focused, probably u can complete it much quicker. He exactly knows where students may get confused with certain topics and he repeats it twice/thrice. Thats the good part. "
+21,Alireza Amani,"Thank you for this content. Also many thanks to the instructor, who makes it almost seamless to go from zero to a level that you are comfortable to work with SQL. Now it’s practice time!"
+22,Anthony Nkem,"Thank you so much, even though I am still going through this tutorial, I want to say a Big thank you for the effort you've taken to bring this awesome lecture to us for free. I am indeed grateful to you sir."
+23,AMAL P B,"(0:00) Introduction
+(2:36) What is a Database?
+(23:10) Tables & Keys
+(43:31) SQL Basics"
+24,Zach Quigg,"Great course, man. Well done. Very easy to follow while remaining thorough."
+25,Pariah Incognito,"This course is good and timeless! You literally discussed a semester's worth of lectures in just 4 hours. I learned a lot here more than in my class. I'm taking this to refresh my knowledge on SQL for a job interview, hope I'll do well."
+26,ken simba,Such a fantastic tutorials with clear explanation. I love to get instructors who move with baby steps on beginner level since they recognise some of us come here with no idea what even SQL is. Thank God I now I fully understand most parts of ms Access and mysql. Wonderful job Mike. God bless you
+27,Poli Nik,Thanks Mike! Actually I knew a lot before this course. But it's so enjoyable and pleasant to see how organized you made this course and prepared materials. You pronounciation is so clear. You are great teacher!
+28,asingbe conrad,This guy is damn good. My instructor’s tuition wasn’t clear and this guy just took me to a level way higher in the positive direction. He’s a genius.
+29,Òfficial,"Contents 
+
+️ (0:00) Introduction
+
+️ (2:36) What is a Database?
+
+️ (23:10) Tables & Keys"
+30,Diego Wang,"Absolutely amazing! I love your tutorial, way better than my college database class."
+31,GruberRuber,"I was into codeacademy and freecodecamp back in around 2015. Didn't really continue with either past learning core web stack, but damn is it crazy to see the amount of views these videos have gotten. 
+
+Lots of years have passed, thanks for being one of the contributing factors towards my success!"
+32,Kofi Asante,Thank you sooo much  for this. You're the best SQL tutor out there. Can someone explain to me when to know to use a nested query and when to use a join? A bit confused on that aspect
+33,Muhammad Tawhidul Islam,I missed my database class in university and when my teacher gave project with a very short deadline I was at a loss. I started watching the video with a hope and it was like a blessing. I created a beautiful database and got one of the highest scores in my class. Thanks sir for teaching this concept beautifully for free.
+34,Anto George,"Thank you Mike, your explanation of concepts was simple and easy to understand. Keep doing the good work."
+35,Icerm,"️ Contents 
+️ (0:00) Introduction
+️ (2:36) What is a Database?
+️ (23:10) Tables & Keys"
+36,KAILASH DHYANI,"When you start streaming past 2:40:00 on the course, you gotta know that why sql is so basic language but still high in demand!!!!!
+Thank you so much Mike!!! Thanks a ton. your method of replicating and teaching is way more practical than other tutorial for sql."
+37,magneat,"2:29:30 Instead of running 10 lines 1 by one inserting data and clicking 10 times 'run', just do them all with a single run: INSERT INTO test_1 VALUES(24, 'B', '1990-12-07'), (25, 'C', '1990-12-08');"
+38,自在極意,"Thank you for the whole lecture. I have clear understanding about setting up a ER diagram, turn it into data tables and creat these tables on SQL. The explanation and codes are detailed and easy to understand. Thanks a lot"
+39,Kimberly Jean,Thank you for this tutorial Very well explained! But correct me if I’m wrong shouldn’t you design the ER diagram and convert it into a database schema before starting to create the tables in SQL?
+40,Janice Liew,"Hello Mike, just want to praise u for being so clear in your tutorial! 4 hours was very clearly explained!! thanks!! ;)"
+41,Nguyễn Minh Hải - B19DCAT058,"Here's all resources he mentioned in the video:
+- Company Database (PDF file): https://www.mikedane.com/databases/sql/company-database.pdf
+- Source Code: https://www.mikedane.com/databases/sql/creating-company-database/
+- ER Diagram Template: https://www.mikedane.com/databases/sql/er-diagrams-intro/"
+42,Chris Chris,This is my first day of learning SQL and I can confidently say you make it seems easy to me. Still on 40 minutes in and I’m understanding the concept. I’m trying to teach myself. Thank you man.
+43,Andrew Jones,Thank you Mike! You are an excellent teacher. Very intelligent and easy to understand.
+44,CreativeGiant,"0:00) Introduction
+
+(2:36) What is a Database?
+
+(23:10) Tables & Keys
+
+(43:31) SQL Basics"
+45,Marta Nikolaieva,The best course for the SQL! You made it so easy to understand! Thanks 
+46,Alana Salvador,Such clear explanations! Mike does a great job at Teaching. I'm really new to this but I was able to understand!
+47,Vijay Swamy,"Hi Mike. I Stumbled upon your Python tutorial doing a general search. I started the tutorial. I am 64 and I see that you are young. Hats off to you for being young and able to teach people like me in a manner and language that I understand easily. I am also simultaneously studying your SQL tutorial. Kudos to you for repeating concepts to underline and drill them in. After so many attempts, I have finally understood the foreign key concept. With you learning is fun and progress can be measured.Keep up the good work.  I cannot thank you enough for making learning a pleasant task."
+48,123 45,Preparing for sql exam learned more in 2 hours than in 2 months really well done video
+49,Gem 💎,"WOW! So much information. I love how you explain it so simply. I'm new at this, so hopefully, I'll get to learn more with your videos."
+50,Vikas Jhaa,"Here is all resources Mike  mentioned in the video:
+- Company Database (PDF file): https://www.mikedane.com/databases/sql/company-database.pdf
+- Source Code: https://www.mikedane.com/databases/sql/creating-company-database/
+- ER Diagram Template: https://www.mikedane.com/databases/sql/er-diagrams-intro/"
+51,Raunak Mitra,I have been studying SQL and this tutorial is really amazing!
+52,ABDULAFEES ABDULSALAM,I really enjoyed this tutorial...Thank you for the opportunity you gave me to have a better understanding of Databases.
+53,Rishabh Goyal,"When downloading/installing mySQL shell/command line client, always choose the latest one available, not the version used in the video; because you will get errors otherwise.
+Hope this saves you some time and effort!"
+54,Megha Sinha 170,"Thanks for efforts man you describe so well for beginners 
+If you are beginners then without any watch full video without skipping any thing and you found that this is one of the best way to explain for beginners so guys don't waste your time and study and I am sure you are to learn many things and thanku man for your efforts "
+55,Aman Verma,Thank you. This was extremely helpful. You're a great teacher.
+56,Roman M,"I like Mike's pace, it's just right. You can tell the guy knows really his stuff.  Great intro into databases. Works as good with PostgreSQL, except a couple of tiny differences. Thank you Mike for making it fun!"
+57,Talha Khan,Thank You Sir Mike for making it simple and concise.
+58,CodeLearnExe,"Brilliant, ive learned c# and now on this and youre definitely clear and a great lecturer thank you"
+59,Sriram Srinivasan,"you teach the entire databases course in 4 hours, that is way better and more efficient than my prof who rambles on and i don't get much out of his course for the entire 16 weeks. thanks dude! you're our lifesaver and a silent unsung hero!"
+60,LE Minh Thien,"Thank Mike for your great work, you are really gifted with teaching. Best wishes."
+61,Leon Engewicht,I actually can´t believe how good this video is! Helped me so much to get started with SQL and understanding databases for my job.
+62,Ayca Y,Great work! This course was extremely helpful for Data Modelling training. Everything you covered in Entity-Relationship Diagrams basically sums up Data Modelling.
+63,Gnaneshwar Mahendrakar,Really explained very efficiently. The one who don't have any knowledge on SQL can easily learn from this Awesome guy. Thanks dude
+64,Rolando Bouloy,"Prompt at 3:00:23 ""Find a list of ALL money spent or earned by the company."" Should be resolved by using UNION ALL instead of just using UNION since we get both $55,000 amounts from both tables. Great job explaining all these principles! Thank you very much!"
+65,Aylin Önay,I can't emphasize enough how much I absolutely love that all the data was from The Office. Literally made this tutorial even better. Thanks!
+66,Thomas Dudek,"Really cool short intro course to SQL and database management, ER diagrams and such. Very well done. Thanks!"
+67,الههههه,"(0:00) Introduction
+
+ (2:36) What is a Database?
+
+ (23:10) Tables & Keys
+
+ (43:31) SQL Basics"
+68,Dawn Huttoe,I cannot express how much I've learnt in 30mins alone. Thank you so much 
+69,farhan khalid,Thanks a lot Mike for this amazing content .... It helped me as a beginner to understand concepts.
+70,Dima Avh,"Mike is the legend! Watched 2 courses and I loved both.
+I wonder if boot camp dev is still on beta or running already."
+71,Rob Faltisco,"I don't agree that you're too wordy, I think the conversational level makes it easy to learn. I have been an educator for decades and for me, your style is perfect, don't listen to that criticism. By the way, thank you for this one and the Python class, good stuff!"
+72,advn.,"1:30:20
+It is optional to add COLUMN after DROP in that query, so it will looks like
+ALTER TABLE student DROP gpa;
+But it is considered good practice to put COLUMN after DROP."
+73,Stephanie Black,Thank you for this! You are so generous! This is useful knowledge for anyone looking to get into data!
+74,Kamran Zadeh,"Mike Dane is a really great teacher. He has been teaching C#, Js, SQL to me. It is better than any paid course."
+75,Rudra Pratap _899,"thank you so much i learned a lot through this tutorial , every example and querie became so easy to understand. i was a complete beginner to SQL but now i can move ahead with a strong knowledge of fundamentals, HIGHLY RECOMMENDED TO ANYONE THINKING TO STARTING TO LEARN SQL. THANK YOU ONCE AGAIN"
+76,David Dunmer,"Few people can claim to have the kind of net positive impact in the world as this guy can. Well done Mike, the world thanks you!"
+77,Pembrook Mbolo,One of the best tutorial videos I have come across on YouTube. Love the fluency. Thanks Mike Dane
+78,Bryan Gillin,"A magnificent help for a brand newbie. I know there aren't enough thanks for the time it took to create but, ""THANK YOU!"""
+79,Sharonne Kemboi,This is the best tutorial I have come across here on Youtube . This is better than going to school for 4 years. He covered everything for a beginner
+80,Decipher Code,I love you! This is the tutorial I needed to learn SQL. Excellent presentation and explanation at a beginner level like me.
+81,S J Beale,"29:40 Mapping keys
+
+30:11 Surrogate vs Natural Keys
+
+30:30 Foreign keys"
+82,Dennis LLopis,Great tutorial for beginners. I learned so much in 4 hours thanks to you. I think it's safe to say that we all appreciate the time and effort you put into this. Great job.
+83,Margot Margot,"You're a natural talent: concise, clear, effective at such a young age.. Congratulations!"
+84,S J Beale,"29:40 Mapping keys
+30:15 Mapping vs Natural Keys
+30:30 Foreign keys"
+85,Akhand Bharat Edit,This is one of the best course of SQL in YouTube . Thanks brother I learn lots from this video . Hat's off 
+86,apoorva s.n,Thank you for teaching and making SQL easy for beginners! Thank you and grateful!
+87,Lobsterzzz,Amazing course Mike! Thank you so much!
+88,Tony Arteaga,"I'm having an interview tomorrow and I'm watching this tutorial to refresh my memory about SQL, wish me luck!! Python developer here :) PS. Thanks for this vid man, great course.
+Edit: I qualified! I was waiting the call, I start wednesday, thanks for asking!"
+89,Bhavay Jain,Very well and easily explained. THANK YOU SO MUCH.
+90,Bangguo Wei,"Great class,i have many questions about the SQL learning, thanks for your classes."
+91,Danijela Babin,"just need to say how much i love this guy , he is so good at teaching explaining . really good job and thank you"
+92,Jamil Huseynli,"Amazing tutorial!  Thank you, Mike!"
+93,Jonas Ekobe,Excellent course. I am teaching myself SQL and I couldn't find a better course. Thank you so much
+94,Emtech Innovation,Thank you very much for making this video. Done a great job in graphical representation and explanation .
+95,Islombek Nematov,Thanks Mike so much for sharing this kind of amazing tutorial 
+96,North Sentinel Island,"I wish to thank you for this tutorial.  I am actually making progress due to your efforts.  I think I learned more in 10 odd hours (I took breaks etc.) what a ""professor"" took 15 weeks to learn.  If only I had a dollar for every time you said relational database management system hehehe although there is no real way to avoid it."
+97,Ray S,"Great tutorial.  On the nested queries, how do we also pull the sales numbers for each employees who got more than 30k of sales?"
+98,alejandro moreno,Really useful and well explain. Thanks a lot!!
+99,Harshitha Keshav,THE BEST SQL tutorial available for beginners. Everything you need to get started with SQL is clearly explained in this video. Awesome job Mike !! Cannot thank you enough for creating such quality tutorial on SQL.  Loved the way you have created Company Database with THE OFFICE reference.
+100,AZ MOTIVATION,"(0:00) Introduction
+
+
+
+(2:36) What is a Database?"
+101,Rohan Mali,"Thanks for the video, I was a total beginner in SQL but its really very well explained in this video."
+102,alena,"have only just started on this tutorial but i wanted to say a big thank you for the SUBTITLES! makes everything really much easier for me to follow, thank you!!"
+103,kazuri74,You are truly a gifted instructor. Thankyou!
+104,Johanna Virviescas,It's perfect to the quarantine!! Learning something new... thanks a lot
+105,Eddie M,You are an excellent teacher and thanks for the outline with times we can click on.
+106,John Travolta,"Awesome, I haven't attended any lectures and learned everything by myself.
+The best crash course/refresher course I could have taken. 
+Awesome job men, highly appreciated from college in Poland :) 
+The exam has been passed with flying colors."
+107,bishara idris beshibo beshibo,"Wow, it's just incredible. 
+Love it.
+It helped me a lot. 
+Thanks once again"
+108,Think Tech,Mind-blowing tutorial. This is literally the best SQL tutorial on the internet. Thank you very much Mike for your awesome efforts. You're the best:)
+109,ღ 𝔼𝕤𝕡𝕚𝕖 ღ,Thanks for this tutorial. Very well explained!
+110,Sony Nguyen,The best thing about this guy is that he uses The Office's characters as examples. Beside the fact that he does teach and convey those information and knowledge very well. Thank you very much master!
+111,Playing with Science & Technology,"Thanks Mike , It is really great course. I've learnt a lot."
+112,harry emmanuel,"A detailed course for free, thanks for this. You're awesome"
+113,Michał Sieja,"1:00:00
+For the people who cannot find how to connect the newest popSQL with your mySQL database.
+
+(from popSQL) file > Preferences > Connections > Add new connection > mySQL"
+114,kamarthi karthik,"i studied sql and even made a project out of it around 17 years ago on oracle 11i version.
+i am able to recall majority of the commands now thanks to your video... great job man"
+115,Mohamed Idrees,"Thanks Mike for the video and it was wonderful especially when I am refreshing my SQL skills after more than 10 years.  I haven't finished the video yet but what I noticed around 3hrs and 15min., I felt the query is incomplete as the requirement was to find total sales of SINGLE client which you haven't addressed. Thanks"
+116,Hex Dex,Great course. Love the idea of having Michael Scott and Co in the examples. You deserve a Dundie Award.
+117,Dipak Uttamlal,Thank you so much for this. Extremely useful tutorial.
+118,Ayoub E.,Didn't expect SQL to be that easy to learn. Thanks
+119,Francesco Lemma,"VARCHAR actually occupies about the same space as the actual length of the stored string in bytes. If you define VARCHAR(1000) and store a string of 10 bytes, it won't use 1000 bytes of space."
+120,pratik divekar,First of all thank you for such a great informative and in-depth video I have a slight doubt when you say it you pronounce sequel but it is spelled SQL(in caps) which suggests me that it is an abbreviation of Structured query language but clearly there is a difference between sequel and Structured query language i kind of know how is that different but i don't get why it is spelled the same. especially it gives rise whole lot of confusion.
+121,Rachit,"That was nice of you, to teach about the database tables, and various kind of keys by taking example from ""The Office"", otherwise I wouldn't be able to understand that part very well..
+Hats off to you"
+122,Matthew Dsouza,"The sheer simplicity in the explanation, slides and example is more than what depicts the efforts you guys put into this course. You are officially the Kurtzgesagt of Education!"
+123,Amrutha Y K,"This is such a great revision for me before an interview! Thank you for this video! 
+I absolutely loved The Office references but I'm so surprised you left our Dwight Schrute! He would be livid that his name did not pop in the sales > 30,000 query "
+124,Sudarshan Mhaisdhune,"Love this dude MIKE DANE, what a fantastic way of teaching and coolest dataset he picked to explain....I will  recommend  this course for 1000%!!!!!"
+125,Ali Ahmad,"Thank you so much bro, The course was curated in a nice way. Got to learn lot many things. Love from India."
+126,Sxyro,"Thank you so much for this course. I always thought SQL was something really hard to understand and that I wouldn't be able to learn it outside college, yet with this course it has been incredibly easy. I don't know if it's the fact that I enjoy this or maybe that you explain it amazingly, again, thank you so much for this!"
+127,ERNEST AHORGAH,"Infact I have learnt alot from your videos. I built a firm foundation in c&c++ programming when I first watch your tutorials. Everything you teach is the best. 
+16weeks college course left me wandering what the difference between primary key, foreign key.... are but you got all covered to my very best understanding in this tutorial. Thank you so much. Keep up the good work sir."
+128,ms suhas,"after watching this for more than  2 weeks and preparing notes of 95 pages, I'm finally done...  there are ppl who finished it in a couple days, don't compare yourself with others, take your time and just make sure you get what your doing."
+129,Kyle Collinson,Thanks for the course. I learned so much!  I wish professors taught like this.... Instead of reading off a powerpoint and going through vague complicated examples that doesn't portray the concept very well.
+130,MDtheLegend 98,Mike is an amazing lecturer.
+131,Juan Diego Rodrìguez,"4 hours of an efficient course, masterpiece"
+132,Khent John Solis,Thank you so much mike really appriacte the work u do around here to help us beginners learn some things we really dont know how to do.
+133,Angela.S Mak,Can’t believe what I learn the whole semester in class and now you show everything in 4 hours here. That is amazing. Thank you very much for your tutorial. You are the best teacher !
+134,radha goyal,"Loving this course, 
+It's been a week following this course. 
+Loving it"
+135,Proof is Left To the Reader,"Learned a lot of quality material from this course. I was wondering if anyone had a comparison to a similar university course, do they teach more? less?"
+136,MOHAMED ANWAR,Amazing job man. Really really helpful start for those who are struggling how to start. Love this video ️
+137,‘Oma Ngozika,I can't wait to come back to give my testimony of how I got a job from this knowledge. Thanks for simplifying this to the barest minimum!!
+138,Vishnu Jatav,"Very much useful, I learned much in SQL from this video. Very much grateful to you"
+139,Nuzhat Sayyed,This tutorial is awesome... I learned so much from this... Yesterday i had practical exams.. And i was the first among all the students to complete the given task and explain it to the examiner..  thanks to you I got an A++
+140,Viplav Singh,very nicely explained with examples.Thank you so much sir
+141,Iyang,Wow I am not very techy but you are so good at explaining that this is so much fun learning!
+142,Athavur Rahman,"Great sir, it is a great teaching of yours that we could complete this task within a span of 4 hours for which our colleges are taking 6 months. Thank you Sir, God bless you "
+143,Hena Faizuddin,I went through a few tutorials for beginner SQL and this is by far the best (and last) one I will need to watch. Thank you so much for sharing your knowledge with us...and loved the Office reference too lol
+144,heggi bf,Great tutorial! I cannot express how astonished I am that he speaks so fast and so clearly without any pauses like my current lecturers at my uni! Thanks a lot! <3
+145,Nisha G,Really so useful Sir.I learned a lot..Thank you so much sir..
+146,J,"note: at 1:33:25 when he's inserting the data into the table 
+
+if you are running into an error try dropping the gpa column that we added in the previous lesson segment then retrying"
+147,yogesh raj,This video was very useful to understand the basics to sequel and the Database schema. thank you mike!!
+148,Shagun Agrawal,Absolute gem you are!! Helped me SO MUCH to clarify things out and learn new concepts so easily and so well! I could do well in my test because of you! Thanks a lot :)
+149,Trung Nguyễn,"Perfect course for SQL beginners, thank you for the hard work, Mike!"
+150,{ CS Projects },"I just started a job as backend engineer after teaching coding for two years.
+I recently learnt java for about 3 weeks and now sql for about 2.5 days 
+I know it is not enough but it gave very great foundation to be  a developer 
+thanks so much "
+151,Patronus,"Hi thank you for this video! I have the following question. Regarding the relationship of the employee entity to itself, called ""Supervision"" shouldn't the lines be double to show that all employees must be under a supervisor or that a supervisor must be supervising at least 1 one employee? Thanks!"
+152,Ribella Artwork,You are great Mike! Thanks for your effort.
+153,Mrymzr Zr,"Perfect, was very helpful to me .keep it up what you're doing "
+154,Hassan Kamran,Thank you so much for this wonderful course. :)
+155,Sumit Sardar,"Hey man,  you explain SQL very well and effectively. I really appreciate your efforts and thanks a lot for this wonderful lesson."
+156,Tapomayee Basu,"THANKS A LOT ! 
+(very very helpful and easy to understand for beginners in 4hrs)"
+157,Adarsh Arora,Thanks for providing knowledge through this course!
+158,ADRIAN FELIPE RUEDA CASTELLANOS,Qué increíble lectura. Aprendí muchísimo
+159,Snehil Sinha,"Just a minor correction at 02:39:14 - Instead of ""birth_date > 1971-01-01"" it should instead be ""birth_date >= 1971-01-01"" or alternatively ""birth_date > 1970-12-31"" since we are considering all dates after the last date of the year 1970 and querying with ""birth_date > 1971-01-01"" will exclude people born on Jan 1st 1971 which is not what we intend. Rest the video is just awesome af ! Thanks for this amazing video ."
+160,SAS,I just finished this course and I can say that this was the best tutorial for beginners. I have taken 3 courses which even were paid and not covered basics from scratch. Thanks mike for giving us free resources.
+161,Prajyut Kar,"At 1:29:00       Note - In the current version of PopSQL, while deleting the command as mike told just don't mention the column otherwise it will show an error. Type "" ALTER TABLE student DROP gpa;  "" and that's it."
+162,Steven,I am hoping to change careers from finance to data analytics and this tutorial is my first step!
+163,Ubon Udonkang,This video simplified everything for me  thanks a lot!
+164,switch1e,This video saved my college semester! Thank you so much
+165,maomaodoudou,"Video is AMAZING! Anyone know where else I can learn/practice SQL? I want more tutorials and hands on, like some exercises."
+166,Niche Id,Thank you for making the entire lesson enjoyable and easy to grasp. You'er one incredible instructor. Can't wait to see your other lessons.
+167,JP216,"It was a great video. I learned a lot. Thank you...
+
+However,  I know that for some versions of SQL, you don't have to type "
+168,Sergio Celis,"In one word: Extraordinary, awesome.  Thank you very much."
+169,Visal Perera,"At 3:11:34 you mention how MySQL doesn't support FULL OUTER JOINs. Based on your description of its functionality, am I right in thinking we can achieve the same in MySQL by simply UNION-ing a LEFT JOIN statement and a RIGHT JOIN statement?"

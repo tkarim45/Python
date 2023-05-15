@@ -8,6 +8,8 @@
 import pygame
 import numpy
 
+# DJEWBJF
+
 
 def getImage(filename):
     """
